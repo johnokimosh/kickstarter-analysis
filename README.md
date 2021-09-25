@@ -12,7 +12,7 @@ Client wants to know how different campaigns fared in relations to their launch 
 
 ### Analysis of Outcomes Based on Launch Date
 
-
+![This is an image](Theater_Outcomes_vs_Launch.png)
 
 Using Excel we analyzed campaign outcomes based on launch date. The pivot table created allows the client to see the data organized by month and the count of the campaign outcomes by successful, failed and canceled. The client is also able to filter the data by parent category. The saved pivot table is currently filtering by "theater."
 
@@ -20,7 +20,7 @@ The filtered data was also used to create a line chart visualization to show the
 
 ### Analysis of Outcomes Based on Goals
 
-
+![This is an image](Outcomes_vs_Goals.png)
 
 Using Excel we analyzed campaign outcomes based on goals. A new worksheet was created to analyze the date the data based on Campaign Goal, outcome (Successful, Failed, Canceled), Total Projects, and the  percentage of the outcomes as it relates to the campaign goal.
 
